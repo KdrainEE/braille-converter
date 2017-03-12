@@ -1,6 +1,8 @@
 // Braille Converter.cpp : Defines the entry point for the console application.
 //
 
+//USING THIS TO TEST GIT
+
 #include "stdafx.h"
 #include "Braille.h"
 
